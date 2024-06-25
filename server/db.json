@@ -1,0 +1,20 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Kiến thức quan trọng về ReactJS",
+            "image": "",
+            "category": "Lập trình web",
+            "date": "15/02/2024",
+            "status": "Đã xuất bản"
+        },
+        {
+            "id": 2,
+            "title": "Ngôn ngữ lập trình Java",
+            "image": "",
+            "category": "Lập trình web",
+            "date": "15/02/2024",
+            "status": "Ngừng xuất bản"
+        }
+    ]
+}
